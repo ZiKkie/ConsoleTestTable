@@ -1,0 +1,15 @@
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\bin\Debug\net6.0\ConsoleTestTable.exe
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\bin\Debug\net6.0\ConsoleTestTable.deps.json
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\bin\Debug\net6.0\ConsoleTestTable.runtimeconfig.json
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\bin\Debug\net6.0\ConsoleTestTable.dll
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\bin\Debug\net6.0\ConsoleTestTable.pdb
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\obj\Debug\net6.0\ConsoleTestTable.csproj.AssemblyReference.cache
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\obj\Debug\net6.0\ConsoleTestTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\obj\Debug\net6.0\ConsoleTestTable.AssemblyInfoInputs.cache
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\obj\Debug\net6.0\ConsoleTestTable.AssemblyInfo.cs
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\obj\Debug\net6.0\ConsoleTestTable.csproj.CoreCompileInputs.cache
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\obj\Debug\net6.0\ConsoleTestTable.dll
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\obj\Debug\net6.0\refint\ConsoleTestTable.dll
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\obj\Debug\net6.0\ConsoleTestTable.pdb
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\obj\Debug\net6.0\ConsoleTestTable.genruntimeconfig.cache
+C:\Users\ZiKkie\source\repos\ConsoleTestTable\ConsoleTestTable\obj\Debug\net6.0\ref\ConsoleTestTable.dll
